@@ -1,1 +1,7 @@
-# IT-Departement-App
+# IT-Department-App
+
+## Requests
+
+## Hardware
+
+## Contacts
