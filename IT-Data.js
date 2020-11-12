@@ -1,5 +1,5 @@
 const requests = {
-  user: "",
+  userId: "",
   type: "",
   msg: "",
   state: "", // waiting,doing,done,undone,canceled
@@ -11,15 +11,17 @@ const hardware = {
   type: "", //pc , laptop , monitor , switcher ,....
   state: "", //inStock,inUse,broken,toReform,outOfStock
   provider: "",
-  user: "",
+  userId: "",
   acquiredAt: "",
   inUseAt: "",
   toReformAt: "",
   reformedAt: ""
 };
 
-const contact = {
+const users = {
+  username: "", //outlook username
   fullName: "",
+  company: "", //casnos or not
   ip: "",
   innerPhone: "",
   Phone: "",
